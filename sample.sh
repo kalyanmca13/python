@@ -1,4 +1,3 @@
-
 import sqlite3 as sql
 conn = sql.connect("sathya_bank.db")
 curs = conn.cursor()
