@@ -1,4 +1,3 @@
-echo "hello world 
-this is sample "
+echo "hello world "
 hostname
 pwd
