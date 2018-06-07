@@ -1,3 +1,4 @@
-echo "hello world "
+echo "hello world in python "
 hostname
 pwd
+
