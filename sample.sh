@@ -1,4 +1,4 @@
-echo "hello world in  "
+echo "hello   "
 hostname
 pwd
 
