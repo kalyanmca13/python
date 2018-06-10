@@ -11,4 +11,4 @@ count=t1.count(101)
 print(count)
 inde=t1.index(101)
 print(inde)
-print(count)
+
